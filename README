@@ -1,0 +1,8 @@
+tinygooglesurf
+==============
+
+A very small shell script that requests a search term, converts it to a url then opens surf browser at that url.
+
+No afillitaion with Google or suckless.
+
+Released under GNU GPL Version 2
